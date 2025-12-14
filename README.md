@@ -26,10 +26,3 @@ I am currently releasing a free video series on professional Stata workflows.
 ### 🔗 **Connect**
 [<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />](https://youtube.com/@ssnudden)
 [<img src="https://img.shields.io/badge/Website-StephenSnudden.com-333333?style=for-the-badge" />](https://stephensnudden.com/)
-
-
----
-
-### 🔗 **Connect**
-[<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />](https://youtube.com/@ssnudden)
-[<img src="https://img.shields.io/badge/Website-StephenSnudden.com-333333?style=for-the-badge" />](https://stephensnudden.com/)
