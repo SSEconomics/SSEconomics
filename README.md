@@ -1,10 +1,8 @@
-### Hi, I'm Stephen. 👋
+### Hi, I'm Stephen. 
 
 I am an economist specializing in empirical macroeconomics, forecasting, and structural modelling.
 
-**My goal is to improve lives by distributing resources that elevate the quality of economic analysis.**
-
-I share open-source code, data, and workflows to help researchers bridge the gap between academic theory and practical application. My work covers a wide range of topics—from **central banking** and **high-frequency macro** to **structural analysis**—with a strict focus on automation and reproducibility.
+My goal is to share **open-source code, data, and tutorials** to help researchers bridge the gap between academic theory and practical application. My work covers a wide range of topics—from **central banking** and **high-frequency macro** to **structural analysis**—with a strict focus on automation and reproducibility.
 
 ---
 
@@ -12,14 +10,7 @@ I share open-source code, data, and workflows to help researchers bridge the gap
 I am currently releasing a free video series on professional Stata workflows.
 * **Focus:** Data cleaning, debugging, Monte Carlo simulations, and automated reporting.
 * **Target Audience:** Research Assistants, Grad Students, and Policy Economists.
-* **[Get the Code](https://github.com/SSEconomics/stata-economics-masterclass)** | **[Watch on YouTube](https://youtube.com/@ssnudden)**
-
----
-
-### 🛠 **Tech Stack**
-![Stata](https://img.shields.io/badge/Stata-15%2B-1a4e8d?style=for-the-badge)
-![R](https://img.shields.io/badge/R-Data_Analysis-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-Writing-47A141?style=for-the-badge&logo=latex)
+* **[Watch on YouTube](https://youtube.com/@ssnudden)**
 
 ---
 
