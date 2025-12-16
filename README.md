@@ -6,15 +6,15 @@ My goal is to share **open-source code, data, and tutorials** to help researcher
 
 ---
 
-### 📺 **[The Stata Economics Masterclass](https://youtube.com/@ssnudden)**
-I am currently releasing a free video series on Stata.
+### 📺 **[The Stata Economics Masterclass](https://github.com/SSEconomics/stata-economics-masterclass)**
+I am currently releasing this video series on Stata (one per week).
 * **Focus:** Data uploading, coverting monthly to quarterly, debugging, Monte Carlo simulations, publication-quality best practices, and automated reporting.
 * **[Watch Video 1: Automate Your Import](https://youtu.be/5n0i6cCQZqo)**
 
 ---
 
 ### 🇨🇦 **[Canadian Economic Data Guide](https://youtu.be/YtObmeC5rYw)**
-A standalone guide on how to build the exact GDP dataset used in the Masterclass from scratch using official Statistics Canada sources.
+A guide with quick links to find macroeconomic StatsCan tables, download GDP, and calculate the textbook national account identity.
 * **[Watch the Data Guide: Build the Dataset](https://youtu.be/YtObmeC5rYw)**
 
 ---
