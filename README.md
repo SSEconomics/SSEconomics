@@ -2,15 +2,15 @@
 
 I am an economist specializing in empirical macroeconomics, forecasting, and structural modelling.
 
-My goal is to share **open-source code, data, and tutorials** to help researchers bridge the gap between academic theory and practical application. My work covers a wide range of topics—from **central banking** and **high-frequency macro** to **structural analysis**—with a strict focus on automation and reproducibility.
+My goal is to share **open-source code, data, and tutorials** to help bridge the gap between academic theory and practical application. My work covers a wide range of topics—from **central banking** and **high-frequency macro** to **structural analysis**—with a strict focus on automation and reproducibility.
 
 ---
 
 ### 📺 **[The Stata Economics Masterclass](https://github.com/SSEconomics/stata-economics-masterclass)**
-I am currently releasing this video series on Stata (one per week).
-* **Focus:** Data uploading, coverting monthly to quarterly, debugging, Monte Carlo simulations, publication-quality best practices, and automated reporting.
+A comprehensive video series designed to professionalize your coding workflow.
+* **Focus:** Automated data importing, frequency conversion, debugging strategies, Monte Carlo simulations, and publication-quality reporting.
 * **[Watch Video 1: Automate Your Import](https://youtu.be/5n0i6cCQZqo)**
-
+* **[Watch Video 2: Stata Debugging: The #1 Economics Interview Question](https://youtu.be/HCt52F8ESf4)**
 ---
 
 ### 🇨🇦 **[Canadian Economic Data Guide](https://youtu.be/YtObmeC5rYw)**
