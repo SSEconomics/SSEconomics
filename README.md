@@ -13,9 +13,8 @@ A comprehensive video series designed to professionalize your coding workflow.
 * **[Watch Video 2: Stata Debugging: The #1 Economics Interview Question](https://youtu.be/HCt52F8ESf4)**
 ---
 
-### 🇨🇦 **[Canadian Economic Data Guide](https://youtu.be/YtObmeC5rYw)**
+### 🇨🇦 **[Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide)**
 A guide with quick links to find macroeconomic StatsCan tables, download GDP, and calculate the textbook national account identity.
-* **[Watch the Data Guide: Build the Dataset](https://youtu.be/YtObmeC5rYw)**
 
 ---
 
