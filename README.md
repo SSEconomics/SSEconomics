@@ -6,11 +6,15 @@ My goal is to share **open-source code, data, and tutorials** to help bridge the
 
 ---
 
-### 📺 **[The Stata Economics Masterclass](https://github.com/SSEconomics/stata-economics-masterclass)**
-A comprehensive video series designed to professionalize your coding workflow.
+### 📺 **[The R Economics Masterclass](https://github.com/SSEconomics/r-economics-masterclass)**
+A comprehensive video series designed to professionalize your coding workflow in R and Rstudio.
 * **Focus:** Automated data importing, frequency conversion, debugging strategies, Monte Carlo simulations, and publication-quality reporting.
-* **[Watch Video 1: Automate Your Import](https://youtu.be/5n0i6cCQZqo)**
-* **[Watch Video 2: Stata Debugging: The #1 Economics Interview Question](https://youtu.be/HCt52F8ESf4)**
+
+---
+
+### 📺 **[The Stata Economics Masterclass](https://github.com/SSEconomics/stata-economics-masterclass)**
+A comprehensive video series designed to professionalize your coding workflow in Stata.
+* **Focus:** Automated data importing, frequency conversion, debugging strategies, Monte Carlo simulations, and publication-quality reporting.
 ---
 
 ### 🇨🇦 **[Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide)**
