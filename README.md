@@ -6,13 +6,11 @@ My goal is to share **open-source code, data, and tutorials** to help bridge the
 
 ---
 
-### 🚀 **Economics Code Masterclass (R & Stata)**
+### 🚀 **Economics Time-Series Masterclass (R & Stata)**
 
-**Stop cleaning data manually. Stop fighting with errors. Start publishing.**
+This mini course is designed to **save you time**, whether you are a noob needing to go from "Zero to Hero" or an experienced economist looking to speed up production.
 
-This mini course is designed to **save you time**, whether you are a "Zero to Hero" beginner or an experienced economist looking to speed up production.
-
-While **vibecoding with LLMs** is great, it’s prone to errors and hallucinations. These repositories provide the **verified, working skeletons** you need to provide necessary context to the AI. Use these templates to ground your LLM, ask it how to add specific features, and explain the logic—ensuring you reduce errors and get to the right result faster.
+While **vibecoding with LLMs** is great, it’s prone to errors and hallucinations. These repositories provide **verified, working code** you need to provide necessary context to the AI. Use these templates to ground your LLM, ask it how to add specific features, and explain the logic—ensuring you reduce errors and get to the right result faster.
 
 #### **One Curriculum, Two Languages**
 
@@ -23,11 +21,11 @@ Choose your preferred language to access the same 5-part video series and code t
 
 #### **What You Will Master (The 5 Tutorials):**
 
-1. **Automated Import & Cleaning:** Never manually format a dataset again. Master uploads, date handling, and frequency aggregation correctly.
-2. **Debug Like a Pro:** Learn best practices and hacks to identify and fix errors instantly.
-3. **Essential Time Series Skills:** Visualize, quantify, model, and forecast.
+1. **Automated Import & Cleaning:** Automatically uploads, set dates, and convert frequencies correctly in seconds.
+2. **Debug Like a Pro:** Best practices and hacks to identify and fix errors instantly.
+3. **Essential Time Series Skills:** Graph, inform your priors (know the data), quantify, model, and forecast.
 4. **Monte Carlo Simulations:** Use simulations to verify methods, extract p-values and output, and understand spurious regressions.
-5. **The "Copy-Paste" Intervention:** Save time by automating your tables and reporting results. Export publication-quality and **LLM-ready tables**—no more copy-pasting screenshots.
+5. **The "Copy-Paste" Intervention:** Save time by automating your tables and result reporting. Export publication-quality and **LLM-ready tables**—no more copy-pasting screenshots.
 
 ---
 
