@@ -8,7 +8,7 @@ My goal is to share **open-source code, data, and tutorials** to help bridge the
 
 ### 🚀 **Economics Time-Series Masterclass (R & Stata)**
 
-This mini course is designed to **save you time**, whether you are a noob needing to go from "Zero to Hero" or an experienced economist looking to speed up production.
+This mini course is designed to **save you time**, whether you are you’re brand new to econometrics and needing to go from "Zero to Hero" or an experienced economist looking to work more efficiently and professionally.
 
 While **vibecoding with LLMs** is great, it’s prone to errors and hallucinations. These repositories provide **verified, working code** you need to provide necessary context to the AI. Use these templates to ground your LLM, ask it how to add specific features, and explain the logic—ensuring you reduce errors and get to the right result faster.
 
