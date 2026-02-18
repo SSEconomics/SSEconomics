@@ -6,17 +6,13 @@ My goal is to share **open-source code, data, and tutorials** to help bridge the
 
 ---
 
-### **Economics Time-Series Masterclass (R & Stata)**
+### 🎓 Economics Time-Series Masterclass (R & Stata)
 
-This mini course is designed to **save you time**, whether you are you’re brand new to econometrics and needing to go from "Zero to Hero" or an experienced economist looking to work more efficiently and professionally.
+A 5-part video series and accompanying code library designed to **save you time**. Whether you are brand new to econometrics and need to go from "Zero to Hero," or an experienced economist looking to work more efficiently, this is for you.
 
-#### **One Curriculum, Two Languages**
+* **[📺 The Stata Economics Masterclass](https://github.com/SSEconomics/stata-economics-masterclass)** *(Complete: 5 Videos + Code)*
+* **[💻 The R Economics Masterclass](https://github.com/SSEconomics/r-economics-masterclass)** *(In Development: Starter code available now, videos coming soon!)*
 
-Choose your preferred language to access the same 5-part video series and code templates:
-
-* **[📺 The Stata Economics Masterclass](https://github.com/SSEconomics/stata-economics-masterclass)**
-* **[The R Economics Masterclass](https://github.com/SSEconomics/r-economics-masterclass)**
-  
 #### **What You Will Master (The 5 Tutorials):**
 
 1. **Automated Import & Cleaning:** Automatically uploads, set dates, and convert frequencies correctly in seconds.
