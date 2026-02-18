@@ -15,11 +15,11 @@ A 5-part video series and accompanying code library designed to **save you time*
 
 #### **What You Will Master (The 5 Tutorials):**
 
-1. **Automated Import & Cleaning:** Automatically uploads, set dates, and convert frequencies correctly in seconds.
-2. **Debug Like a Pro:** Solve 95+% of errors, identify hidden mistakes, fix AI slop. 
+1. **Automated Import & Cleaning:** Automatically upload, set dates, and convert frequencies correctly in seconds.
+2. **Debug Like a Pro:** Solve 95+% of errors, identify hidden mistakes, and fix AI slop. 
 3. **Essential Time Series Skills:** Graph, inform your priors (know the data), quantify, model, and forecast.
-4. **Monte Carlo Simulations:** Use simulations to verify methods, extract p-values and output, and understand spurious regressions.
-5. **The "Copy-Paste" Intervention:** Save time by automating your tables and result reporting. Export publication-quality and **LLM-ready tables**—no more copy-pasting screenshots.
+4. **Monte Carlo Simulations:** Use simulations to verify methods, extract p-values, and understand spurious regressions.
+5. **The "Copy-Paste" Intervention:** Save time by automating your result reporting. 
 
 ---
 
