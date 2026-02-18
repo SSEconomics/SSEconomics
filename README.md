@@ -43,7 +43,26 @@ End-of-month data allows researchers to test the random walk hypothesis when for
 **[Real-Time Daily and End-of-Month Effective Exchange Rates (EERs)](https://github.com/SSEconomics/real-time-daily-eers)** The first real-time dataset of daily and end-of-month effective exchange rates. 
 * **Variables:** Daily EERs for 160 countries; end-of-month and monthly averages for 79 countries (Nominal and Real).
 * **Code:** R and Stata scripts to forecast EERs for all countries are provided.
-  
+
+### 📊 Featured Data Packages
+
+End-of-month data allows researchers to test the random walk hypothesis when forecasting and reduces shock mistiming in structural analysis. Note that using high-frequency data, including end-of-month data, can yield forecasting accuracy improvements of up to 40%.
+
+**[Real-Time Crude Oil Market Data Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)** *(Updated Monthly)* Real-time monthly data vintages for the global crude oil market. 
+* **Variables:** Nominal RAC, World Oil Production, US Crude Oil/Petrol Inventories, and OECD Petroleum Inventories.
+* **Code:** R and Stata scripts for data loading and baseline forecasting *(Coming Soon!)*.
+
+**[Backcasted End-of-Month and Monthly Average Crude Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)** *(Updated Monthly)* End-of-month spot prices for WTI and Brent, backcasted to January 1973. 
+* **Variables:** WTI and Brent (Monthly Average and End-of-Month), RAC, and US CPI.
+* **Code:** R and Stata scripts for data loading, visualization, and end-of-month RAC construction *(Coming Soon!)*.
+
+**[Real-Time Daily and End-of-Month Effective Exchange Rates (EERs)](https://github.com/SSEconomics/real-time-daily-eers)** The first real-time dataset of daily and end-of-month effective exchange rates. 
+* **Variables:** Daily EERs for 160 countries; end-of-month and monthly averages for 79 countries (Nominal and Real).
+* **Code:** R and Stata scripts to forecast EERs for all countries are provided.
+
+**[Monthly Commodity Spot and Futures Data (17 Primary Commodities)](https://github.com/SSEconomics/commodity-spot-and-futures-data)** Standard monthly averages alongside high-frequency end-of-month spot prices, mixed-frequency spot data, and constructed futures forecasts.
+* **Variables:** End-of-month spot prices, mixed-frequency, and futures forecast for 17 commodities.
+
 ---
 
 ### 🔗 **Connect**
