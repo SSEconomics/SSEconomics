@@ -6,7 +6,7 @@ My goal is to share **open-source code, data, and tutorials** to help bridge the
 
 ---
 
-### 🚀 **Economics Time-Series Masterclass (R & Stata)**
+### **Economics Time-Series Masterclass (R & Stata)**
 
 This mini course is designed to **save you time**, whether you are you’re brand new to econometrics and needing to go from "Zero to Hero" or an experienced economist looking to work more efficiently and professionally.
 
@@ -29,6 +29,20 @@ Choose your preferred language to access the same 5-part video series and code t
 
 ### 🇨🇦 **[Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide)**
 A guide with quick links to find macroeconomic StatsCan tables, download GDP, and calculate the textbook national account identity.
+
+---
+
+### 📊 Featured Data Packages (Updated Monthly)
+
+**[Real-Time Crude Oil Market Data Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)**
+Real-time monthly data vintages for the global crude oil market. 
+* **Variables:** Nominal RAC, World Oil Production, US Crude Oil/Petrol Inventories, and OECD Petroleum Inventories.
+* **Code Provided:** R and Stata scripts for data loading and baseline forecasting.
+
+**[Backcasted End-of-Month and Monthly Average Crude Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)**
+End-of-month spot prices for WTI and Brent, backcasted to January 1973. This allows researchers to test the random walk hypothesis when forecasting and reduces shock mistiming in structural analysis.
+* **Variables:** WTI and Brent (Monthly Average and End-of-Month), RAC, and US CPI.
+* **Code Provided:** R and Stata scripts for data loading, visualization, and end-of-month RAC construction.
 
 ---
 
