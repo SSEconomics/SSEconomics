@@ -1,6 +1,6 @@
-# Hi, I'm Stephen Snudden 👋
+# Hi, I'm Stephen Snudden 
 
-**Assistant Professor of Economics** | Empirical Macroeconomics • Forecasting • Structural Modelling
+**Assistant Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics 
 
 I develop and maintain high-frequency, real-time datasets designed to eliminate look-ahead bias and improve forecasting accuracy. My goal is to bridge the gap between academic theory and practical application through open-source code and reproducible data.
 
@@ -22,8 +22,6 @@ I develop and maintain high-frequency, real-time datasets designed to eliminate 
 
 ### 🎓 Economics Time-Series Masterclass (R & Stata)
 *Level up your data analysis from "Zero to Hero."*
-
-[<img src="https://img.youtube.com/vi/placeholder/0.jpg" width="400" align="right">](https://youtube.com/@ssnudden)
 
 * **[📺 The Stata Economics Masterclass](https://github.com/SSEconomics/stata-economics-masterclass)** *(Complete: 5 Videos + Code)*
 * **[💻 The R Economics Masterclass](https://github.com/SSEconomics/r-economics-masterclass)** *(In Development: Starter code available now, videos coming soon!)*
