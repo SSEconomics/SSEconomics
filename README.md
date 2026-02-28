@@ -2,7 +2,7 @@
 
 **Assistant Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics 
 
-**Macroeconometrics is in crisis.** Forecasts of period averages failed to test against the true random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question almost every empirical result from the last 50 years. Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, every macro model estimated on monthly or quarterly averages has mistimed shocks and introduced spurious endogeneity. The fix is simple: any macro forecaster could halve their forecast error right now just by replacing period averages with alternative data sampling. This page distributes the data, code, and techniques to fix macro slop.
+**Macroeconometrics is in crisis.** Forecasts of period averages failed to test against the true random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question every macroeconomic forecasting result from the last 50 years. Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, every macro model estimated on monthly or quarterly averages has mistimed shocks and introduced spurious endogeneity. The fix is simple: any macro forecaster could halve their forecast error right now just by replacing period averages with alternative data sampling. This page distributes the data, code, and techniques to fix macro slop.
 
 ---
 
