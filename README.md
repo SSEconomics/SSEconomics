@@ -37,7 +37,7 @@
 ---
 
 ## 🛠️ Tools & Guides
-* **[📺 Code](https://github.com/SSEconomics/business-cycle-filters):** A deep dive into business cycle filtration. 
+* **[📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters):** A deep dive into business cycle filtration. 
 * **[📺 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide):** A streamlined gateway to Canadian Data.
 
 ---
