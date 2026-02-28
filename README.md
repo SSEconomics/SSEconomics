@@ -2,14 +2,14 @@
 
 **Assistant Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics 
 
-I develop and maintain high-frequency, real-time datasets designed to eliminate look-ahead bias and improve forecasting accuracy. My goal is to bridge the gap between academic theory and practical application through open-source code and reproducible data.
+**Macroeconometrics is in crisis.** Forecasts of period averages have historically failed to test against the true random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question almost every empirical result from the last 50 years. Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, every macro model estimated on monthly or quarterly averages has mistimed shocks and introduced spurious endogeneity. The fix is simple: any macro forecaster could halve their forecast error right now just by replacing period averages with alternative data sampling. This page distributes the data, code, and techniques to fix macro slop.
 
 ---
 
 ## 💎 Featured Data Resources 
 *High-frequency and real-time datasets for Econometrics and Machine Learning.*
 
-> **Key Advantage:** End-of-month (EOM) and real-time vintage data eliminate **temporal aggregation bias** and **look-ahead bias**. Switching from monthly averages to EOM data can improve forecasting accuracy by up to **40%**.
+> **Key Advantage:** Using high-frequency and end-of-month (EOM) data enables testing against the **random walk hypothesis**, reduces shock mistiming, avoids spurious endogeneity, and can improve forecasting accuracy by up to **40%** compared to using monthly averages. Moreover, to ensure your empirical results are actually relevant, you must backtest using **real-time data**, relying strictly on pre-revision data that accounts for publication lags.
 
 | Dataset | Scope | Tech Highlights |
 | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ I develop and maintain high-frequency, real-time datasets designed to eliminate 
 ---
 
 ### 🎓 Economics Time-Series Masterclass (R & Stata)
-*Level up your data analysis from "Zero to Hero."*
+*Level up your data analysis and coding from "Zero to Hero."*
 
 * **[📺 The Stata Economics Masterclass](https://github.com/SSEconomics/stata-economics-masterclass)** *(Complete: 5 Videos + Code)*
 * **[💻 The R Economics Masterclass](https://github.com/SSEconomics/r-economics-masterclass)** *(In Development: Starter code available now, videos coming soon!)*
@@ -36,8 +36,9 @@ I develop and maintain high-frequency, real-time datasets designed to eliminate 
 
 ---
 
-## 🛠️ Other Tools & Guides
-* **[🇨🇦 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide):** A streamlined gateway to Canadian Data.
+## 🛠️ Tools & Guides
+* **[📺 Code](https://github.com/SSEconomics/business-cycle-filters):** A deep dive into business cycle filtration. 
+* **[📺 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide):** A streamlined gateway to Canadian Data.
 
 ---
 
