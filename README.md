@@ -1,8 +1,13 @@
-# Hi, I'm Stephen Snudden 
+# Hi, I'm Stephen Snudden
 
-**Assistant Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics 
+**Assistant Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics
 
-**Macroeconometrics is in crisis.** Forecasts of period averages failed to test against the true random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question every macroeconomic forecasting result from the last 50 years. Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, every macro model estimated on monthly or quarterly averages has mistimed shocks and introduced spurious endogeneity. The fix is simple: any macro modeller could halve their forecast error right now just by replacing period averages with alternative data sampling. This page distributes the data, code, and techniques to elevate empirical macro.
+**Macroeconometrics is in crisis.**
+* **Spurious Forecasts:** Forecasts of period averages have failed to test against the correct random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question every macroeconomic forecasting result from the last 50 years.
+* **Structural Models:** Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, every macro model estimated on monthly or quarterly averages has mistimed shocks and introduced spurious endogeneity.
+* **The Solution:** Halve your forecast error and minimize endogeneity and mistiming through high-frequency techniques.
+
+This page distributes the data, Stata and R code, and techniques to elevate empirical macro.
 
 ---
 
@@ -14,9 +19,15 @@
 | Dataset | Scope | Tech Highlights |
 | :--- | :--- | :--- |
 | **[Real-Time Daily & EOM EERs](https://github.com/SSEconomics/real-time-daily-eers)** | 160 Countries | **World's first** real-time daily/EOM effective exchange rate dataset. |
-| **[17 Primary Commodities](https://github.com/SSEconomics/commodity-spot-and-futures-data)** | Global Markets | Mixed-frequency spot data & futures-based forecasts. |
+| **[17 Primary Commodities](https://github.com/SSEconomics/commodity-spot-and-futures-data)** | Global Markets | EOM spot and futures data & futures forecasts. |
 | **[Real-Time Oil Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)** | Monthly Vintages | Real-time global crude oil production, activity, and inventories. |
 | **[EOM Backcasted Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)** | Since 1973 | WTI/Brent EOM spot prices. Optimized for Random Walk testing. |
+
+---
+
+## 🛠️ Tools & Guides
+* **[📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters):** A deep dive into business cycle filtration. 
+* **[📺 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide):** A streamlined gateway to Canadian Data.
 
 ---
 
@@ -33,12 +44,6 @@
 3. **Core Skills:** Graphing, priors, and predictive modeling.
 4. **Monte Carlo:** Using simulations to verify your results.
 5. **The "Copy-Paste" Intervention:** Full automation of result reporting.
-
----
-
-## 🛠️ Tools & Guides
-* **[📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters):** A deep dive into business cycle filtration. 
-* **[📺 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide):** A streamlined gateway to Canadian Data.
 
 ---
 
