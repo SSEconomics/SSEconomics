@@ -19,9 +19,9 @@ This page distributes the data, Stata and R code, and techniques to elevate empi
 | Dataset | Scope | Tech Highlights |
 | :--- | :--- | :--- |
 | **[Real-Time Daily & EOM EERs](https://github.com/SSEconomics/real-time-daily-eers)** | 160 Countries | **World's first** real-time daily/EOM effective exchange rate dataset. |
-| **[17 Primary Commodities](https://github.com/SSEconomics/commodity-spot-and-futures-data)** | Global Markets | EOM spot and futures data & futures forecasts. |
+| **[17 Primary Commodities](https://github.com/SSEconomics/commodity-spot-and-futures-data)** | Global Markets | EOM spot and futures & futures-based forecasts. |
 | **[Real-Time Oil Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)** | Monthly Vintages | Real-time global crude oil production, activity, and inventories. |
-| **[EOM Backcasted Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)** | Since 1973 | WTI/Brent EOM spot prices. Optimized for Random Walk testing. |
+| **[EOM Backcasted Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)** | Since 1973 | WTI/Brent/RAC EOM and backcasted spot prices. |
 
 ---
 
