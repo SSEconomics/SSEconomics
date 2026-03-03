@@ -2,12 +2,12 @@
 
 **Assistant Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics
 
-**Macroeconometrics is in crisis.**
-* **Spurious Forecasts:** Forecasts of period averages have failed to test against the correct random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question every macroeconomic forecasting result from the last 50 years.
-* **Structural Models:** Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, every macro model estimated on monthly or quarterly averages has mistimed shocks and introduced spurious endogeneity.
-* **The Solution:** Halve your forecast error and minimize endogeneity and mistiming through high-frequency techniques.
+**Economics is in crisis.**
+* **Forecasts:** Forecasts of period averages have failed to test against the correct random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question every macroeconomic forecasting result from the last 50 years.
+* **Structural:** Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, every macro model estimated on monthly or quarterly averages has mistimed shocks and introduced spurious endogeneity.
+* **Solution:** Halve your forecast error and minimize endogeneity and mistiming through high-frequency techniques.
 
-This page distributes the data, Stata and R code, and techniques to elevate empirical macro.
+This page distributes the insights, data, Stata and R code, and techniques to elevate empirical macro.
 
 ---
 
