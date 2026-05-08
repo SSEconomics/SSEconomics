@@ -17,12 +17,21 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 
 > **Key Advantage:** Using high-frequency and end-of-month (EOM) data enables testing against the **random walk hypothesis**, reduces shock mistiming, avoids spurious endogeneity, and can improve forecasting accuracy by up to **40%** compared to using monthly averages. Moreover, to ensure your empirical results are actually relevant, you must backtest using **real-time data**, relying strictly on pre-revision data that accounts for publication lags.
 
+### ⚡ High-Frequency & End-of-Month (EOM) Datasets
+*Optimized for accurate shock timing and testing the random walk null.*
+
 | Dataset | Scope | Tech Highlights |
 | :--- | :--- | :--- |
 | **[Real-Time Daily & EOM EERs](https://github.com/SSEconomics/real-time-daily-eers)** | 160 Countries | **World's first** real-time daily/EOM effective exchange rate dataset. |
 | **[17 Primary Commodities](https://github.com/SSEconomics/commodity-spot-and-futures-data)** | Global Markets | EOM spot and futures & futures-based forecasts. |
-| **[Real-Time Oil Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)** | Monthly Vintages | Real-time global crude oil production, activity, and inventories. |
 | **[EOM Backcasted Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)** | Since 1973 | WTI/Brent/RAC EOM and backcasted spot prices. |
+
+### 📦 Replication & Period-Average Datasets
+*Real-time monthly vintages compiled for replication.*
+
+| Dataset | Scope | Tech Highlights |
+| :--- | :--- | :--- |
+| **[Real-Time Oil Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)** | Monthly Vintages | Real-time global crude oil production, activity, and inventories.|
 
 ---
 
