@@ -26,18 +26,20 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 | **[17 Primary Commodities](https://github.com/SSEconomics/commodity-spot-and-futures-data)** | Global Markets | EOM spot and futures & futures-based forecasts. |
 | **[EOM Backcasted Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)** | Since 1973 | WTI/Brent/RAC EOM and backcasted spot prices. |
 
+### 🛠️ High-Frequency Data Methods
+
+| Dataset | Scope | Tech Highlights |
+| :--- | :--- | :--- |
+| **[Daily CPI Interpolation](https://github.com/SSEconomics/daily-cpi)** | Daily CPI | Interpolated daily CPI to construct real daily prices. Includes Stata and R code. |
+
+---
+
 ### 📦 Replication & Period-Average Datasets
 *Real-time monthly vintages compiled for replication.*
 
 | Dataset | Scope | Tech Highlights |
 | :--- | :--- | :--- |
 | **[Real-Time Oil Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)** | Monthly Vintages | Real-time global crude oil production, activity, and inventories.|
-
-### 🛠️ High-Frequency Data Methods
-
-| Dataset | Scope | Tech Highlights |
-| :--- | :--- | :--- |
-| **[Daily CPI Interpolation](https://github.com/SSEconomics/daily-cpi)** | Daily CPI | Interpolated daily CPI to construct real daily prices. Includes Stata and R code. |
 
 ---
 
