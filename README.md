@@ -33,6 +33,12 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 | :--- | :--- | :--- |
 | **[Real-Time Oil Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)** | Monthly Vintages | Real-time global crude oil production, activity, and inventories.|
 
+### 🛠️ High-Frequency Data Methods
+
+| Dataset | Scope | Tech Highlights |
+| :--- | :--- | :--- |
+| **[Daily CPI Interpolation](https://github.com/SSEconomics/daily-cpi)** | Daily CPI | Interpolated daily CPI to construct real daily prices. Includes Stata and R code. |
+
 ---
 
 ## 🛠️ Tools & Guides
