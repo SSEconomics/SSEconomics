@@ -1,6 +1,6 @@
 # Hi, I'm Stephen Snudden
 
-**Assistant Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics
+**Associate Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics
 
 **Rethinking 50 Years of Empirical Macroeconomics**  
 Recent methodological advances reveal critical, overlooked biases in standard macroeconomic practices:
