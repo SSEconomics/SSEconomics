@@ -38,7 +38,9 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 
 ---
 
-## 📦 Featured Software: [BUMIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
+## 📦 Featured Software: 
+
+### [💻 BUMIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
 
 *Optimal Mixed-frequency forecasting with high-frequency data.*
 
@@ -49,7 +51,8 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 
 📄 [**Lee & Snudden:** *Bottom-Up Mixed-Frequency Data Sampling (BUMIDAS)*](https://github.com/SSEconomics/bumidas-stata)
 
-* **[📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters):** A deep dive into business cycle filtration. 
+###  [📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters):
+*A deep dive into business cycle filtration.*
 ---
 
 ## 🛠️ Data Guides
