@@ -25,11 +25,6 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 | **[Real-Time Daily & EOM EERs](https://github.com/SSEconomics/real-time-daily-eers)** | 160 Countries | **World's first** real-time daily/EOM effective exchange rate dataset. |
 | **[17 Primary Commodities](https://github.com/SSEconomics/commodity-spot-and-futures-data)** | Global Markets | EOM spot and futures & futures-based forecasts. |
 | **[EOM Backcasted Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)** | Since 1973 | WTI/Brent/RAC EOM and backcasted spot prices. |
-
-### 🛠️ High-Frequency Data Methods
-
-| Dataset | Scope | Tech Highlights |
-| :--- | :--- | :--- |
 | **[Daily CPI Interpolation](https://github.com/SSEconomics/daily-cpi)** | Daily CPI | Interpolated daily CPI to construct real daily prices. Includes Stata and R code. |
 
 ---
@@ -43,8 +38,22 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 
 ---
 
-## 🛠️ Tools & Guides
+## 📦 Featured Software: [BUMIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
+
+*Optimal Mixed-frequency forecasting with high-frequency data.*
+
+- **`bumidas`** — Bottom-Up MIDAS estimation and model selection.
+- **`mfcollapse`** — constructs mixed-frequency datasets from daily, weekly, or monthly data.
+- Includes **UMIDAS/RMIDAS comparisons**, a foreign-exchange application, simulation, examples, and tests.
+- Supports direct multi-step forecasts, multiple HF predictors, and BIC/AIC/HQIC selection.
+
+📄 [**Lee & Snudden:** *Bottom-Up Mixed-Frequency Data Sampling (BUMIDAS)*](https://github.com/SSEconomics/bumidas-stata)
+
 * **[📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters):** A deep dive into business cycle filtration. 
+---
+
+## 🛠️ Data Guides
+
 * **[📺 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide):** A streamlined gateway to Canadian Data.
 
 ---
