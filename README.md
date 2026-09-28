@@ -42,7 +42,7 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 
 ## 💻 Featured Software
 
-### [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
+### 📦 [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
 *Optimal Mixed-frequency forecasting with high-frequency data.*
 
 - **`bumidas`** — Bottom-Up MIDAS estimation and model selection.
