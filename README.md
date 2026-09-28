@@ -27,7 +27,6 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 | **[EOM Backcasted Oil Prices](https://github.com/SSEconomics/backcasted-crude-oil-prices)** | Since 1973 | WTI/Brent/RAC EOM and backcasted spot prices. |
 | **[Daily CPI Interpolation](https://github.com/SSEconomics/daily-cpi)** | Daily CPI | Interpolated daily CPI to construct real daily prices. Includes Stata and R code. |
 
----
 
 ### 📦 Replication & Period-Average Datasets
 *Real-time monthly vintages compiled for replication.*
@@ -36,12 +35,14 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 | :--- | :--- | :--- |
 | **[Real-Time Oil Vintages](https://github.com/SSEconomics/real-time-crude-oil-market-data)** | Monthly Vintages | Real-time global crude oil production, activity, and inventories.|
 
+### [📺 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide)
+*A streamlined gateway to Canadian Data.*
+
 ---
 
 ## 📦 Featured Software: 
 
 ### [💻 BUMIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
-
 *Optimal Mixed-frequency forecasting with high-frequency data.*
 
 - **`bumidas`** — Bottom-Up MIDAS estimation and model selection.
@@ -51,13 +52,8 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 
 📄 [**Lee & Snudden:** *Bottom-Up Mixed-Frequency Data Sampling (BUMIDAS)*](https://github.com/SSEconomics/bumidas-stata)
 
-###  [📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters):
+###  [📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters)
 *A deep dive into business cycle filtration.*
----
-
-## 🛠️ Data Guides
-
-* **[📺 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide):** A streamlined gateway to Canadian Data.
 
 ---
 
