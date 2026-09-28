@@ -15,7 +15,7 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 ## 💎 Featured Data Resources 
 *High-frequency and real-time datasets for Econometrics and Machine Learning.*
 
-> **Key Advantage:** Using high-frequency and end-of-month (EOM) data enables testing against the **random walk hypothesis**, reduces shock mistiming, avoids spurious endogeneity, and can improve forecasting accuracy by up to **40%** compared to using monthly averages. Moreover, to ensure your empirical results are actually relevant, you must backtest using **real-time data**, relying strictly on pre-revision data that accounts for publication lags.
+> **Key Advantage:** Using high-frequency and end-of-month (EOM) data enables testing against the **random walk hypothesis**, **reduces shock mistiming**, **avoids spurious endogeneity**, and can **improve forecasting accuracy by up to 40%** compared to using monthly averages. Moreover, to ensure your empirical results are actually relevant, you must backtest using **real-time data**, relying strictly on pre-revision data that accounts for publication lags.
 
 ### ⚡ High-Frequency & End-of-Month (EOM) Datasets
 *Optimized for accurate shock timing and testing the random walk null.*
@@ -28,8 +28,8 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 | **[Daily CPI Interpolation](https://github.com/SSEconomics/daily-cpi)** | Daily CPI | Interpolated daily CPI to construct real daily prices. Includes Stata and R code. |
 
 
-### 📦 Replication & Period-Average Datasets
-*Real-time monthly vintages compiled for replication.*
+### ⏱️ Real-time Period-Average Datasets
+*Backtest forecasts using only the information actually available at each point in time.*
 
 | Dataset | Scope | Tech Highlights |
 | :--- | :--- | :--- |
@@ -40,9 +40,9 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 
 ---
 
-## 📦 Featured Software: 
+## 💻 Featured Software
 
-### [💻 BUMIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
+### [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
 *Optimal Mixed-frequency forecasting with high-frequency data.*
 
 - **`bumidas`** — Bottom-Up MIDAS estimation and model selection.
