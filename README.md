@@ -2,7 +2,7 @@
 
 **Associate Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics
 
-> **Start here:** 💻 [BUMIDAS for Stata](https://github.com/SSEconomics/bumidas-stata) · 💎 [High-Frequency Data](https://github.com/SSEconomics?tab=repositories) · 📺 [YouTube](https://youtube.com/@ssnudden) · 🌐 [Research](https://stephensnudden.com/)
+> **Start here:** 💻 [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata) · 📺 [YouTube](https://youtube.com/@ssnudden) · 🌐 [Research](https://stephensnudden.com/)
 
 **Rethinking 50 Years of Empirical Macroeconomics**  
 Recent methodological advances reveal critical, overlooked biases in standard macroeconomic practices:
