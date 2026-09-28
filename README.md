@@ -2,13 +2,32 @@
 
 **Associate Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics
 
+> **Start here:** 💻 [BUMIDAS for Stata](https://github.com/SSEconomics/bumidas-stata) · 💎 [High-Frequency Data](https://github.com/SSEconomics?tab=repositories) · 📺 [YouTube](https://youtube.com/@ssnudden) · 🌐 [Research](https://stephensnudden.com/)
+
 **Rethinking 50 Years of Empirical Macroeconomics**  
 Recent methodological advances reveal critical, overlooked biases in standard macroeconomic practices:
-* **Forecasts:** Forecasts of period averages have failed to test against the correct random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question every macroeconomic forecasting result from the last 50 years.
-* **Structural:** Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, every macro model estimated on monthly or quarterly averages has mistimed shocks and introduced spurious endogeneity.
+* **Forecasts:** Forecasts of period averages have failed to test against the correct random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question macroeconomic forecasting results from the last 50 years.
+* **Structural:** Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, macro model estimated on monthly or quarterly averages potentially mistimed shocks and introduced spurious endogeneity.
 * **Solution:** Halve your forecast error and minimize endogeneity and mistiming through high-frequency techniques.
 
 This page distributes the insights, data, Stata and R code, and techniques to elevate empirical macro.
+
+---
+
+## 💻 Featured Software
+
+### 📦 [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
+*Optimal Mixed-frequency forecasting with high-frequency data.*
+
+- **`bumidas`** — Bottom-Up MIDAS estimation and model selection.
+- **`mfcollapse`** — constructs mixed-frequency datasets from daily, weekly, or monthly data.
+- Includes **UMIDAS/RMIDAS comparisons**, a foreign-exchange application, simulation, examples, and tests.
+- Supports direct multi-step forecasts, multiple HF predictors, and BIC/AIC/HQIC selection.
+
+📄 [**Lee & Snudden:** *Bottom-Up Mixed-Frequency Data Sampling (BUMIDAS)*](https://github.com/SSEconomics/bumidas-stata)
+
+###  [📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters)
+*A deep dive into business cycle filtration.*
 
 ---
 
@@ -37,23 +56,6 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 
 ### [📺 Canadian Economic Data Guide](https://github.com/SSEconomics/statscan-econ-data-guide)
 *A streamlined gateway to Canadian Data.*
-
----
-
-## 💻 Featured Software
-
-### 📦 [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
-*Optimal Mixed-frequency forecasting with high-frequency data.*
-
-- **`bumidas`** — Bottom-Up MIDAS estimation and model selection.
-- **`mfcollapse`** — constructs mixed-frequency datasets from daily, weekly, or monthly data.
-- Includes **UMIDAS/RMIDAS comparisons**, a foreign-exchange application, simulation, examples, and tests.
-- Supports direct multi-step forecasts, multiple HF predictors, and BIC/AIC/HQIC selection.
-
-📄 [**Lee & Snudden:** *Bottom-Up Mixed-Frequency Data Sampling (BUMIDAS)*](https://github.com/SSEconomics/bumidas-stata)
-
-###  [📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters)
-*A deep dive into business cycle filtration.*
 
 ---
 
