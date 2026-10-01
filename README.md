@@ -17,14 +17,14 @@ This page distributes the insights, data, Stata and R code, and techniques to el
 ## 💻 Featured Software
 
 ### 📦 [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata)
-*Optimal Mixed-frequency forecasting with high-frequency data.*
+*Mixed-frequency data construction, estimation, and forecasting in Stata.*
 
 - **`bumidas`** — Bottom-Up MIDAS estimation and model selection.
 - **`mfcollapse`** — constructs mixed-frequency datasets from daily, weekly, or monthly data.
-- Includes **UMIDAS/RMIDAS comparisons**, a foreign-exchange application, simulation, examples, and tests.
-- Supports direct multi-step forecasts, multiple HF predictors, and BIC/AIC/HQIC selection.
-
-📄 [**Lee & Snudden:** *Bottom-Up Mixed-Frequency Data Sampling (BUMIDAS)*](https://github.com/SSEconomics/bumidas-stata)
+- **`umidas`** — unrestricted MIDAS estimation.
+- **`rmidas`** — restricted MIDAS with Almon, step, Legendre, exponential Almon, and beta weights.
+- Supports direct multi-step forecasts, multiple high-frequency predictors, and BIC/AIC/HQIC selection.
+- Includes examples, certification tests, simulations, a foreign-exchange application, and conference materials.
 
 ###  [📺 Filters & The Business Cycle](https://github.com/SSEconomics/business-cycle-filters)
 *A deep dive into business cycle filtration.*
