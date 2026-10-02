@@ -6,7 +6,7 @@
 
 **Rethinking 50 Years of Empirical Macroeconomics**  
 Recent methodological advances reveal critical, overlooked biases in standard macroeconomic practices:
-* **Forecasts:** Forecasts of period averages have failed to test against the correct random walk null (end-of-period no-change), testing instead against the period-average no-change. This has resulted in spurious predictability, calling into question macroeconomic forecasting results from the last 50 years.
+* **Forecasts:** Forecasts of period averages need to be tested against the end-of-period no-change, the optimal forecast for a random walk null. Instead, they were tested against the period-average no-change resulting in spurious predictability, calling into question macroeconomic forecasting results from the last 50 years.
 * **Structural:** Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, macro model estimated on monthly or quarterly averages potentially mistimed shocks and introduced spurious endogeneity.
 * **Solution:** Halve your forecast error and minimize endogeneity and mistiming through high-frequency techniques.
 
