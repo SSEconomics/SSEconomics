@@ -2,11 +2,11 @@
 
 **Associate Professor of Economics** | Forecasting • Structural Modelling • Macroeconomics
 
-> **Start here:** 💻 [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata) · 📺 [YouTube](https://youtube.com/@ssnudden) · 🌐 [Research](https://stephensnudden.com/)
+> **Start here:** 📐 [Random-walk cheat sheet](https://github.com/SSEconomics/rw-cheatsheet) · 💻 [MIDAS for Stata](https://github.com/SSEconomics/bumidas-stata) · 📺 [YouTube](https://youtube.com/@ssnudden) · 🌐 [Research](https://stephensnudden.com/)
 
 **Rethinking 50 Years of Empirical Macroeconomics**  
 Recent methodological advances reveal critical, overlooked biases in standard macroeconomic practices:
-* **Forecasts:** Forecasts of period averages need to be tested against the end-of-period no-change, the optimal forecast for a random walk null. Instead, they were tested against the period-average no-change resulting in spurious predictability, calling into question macroeconomic forecasting results from the last 50 years.
+* **Forecasts:** Forecasts of period averages need to be tested against the end-of-period no-change, the optimal forecast for a random walk null. Instead, they were tested against the period-average no-change resulting in spurious predictability, calling into question macroeconomic forecasting results from the last 50 years.  **[Cheat sheet: how to test correctly](https://github.com/SSEconomics/rw-cheatsheet)**
 * **Structural:** Working (1960) was wrong: a random walk (RW) does not aggregate to a moving average (MA) process. Consequently, macro model estimated on monthly or quarterly averages potentially mistimed shocks and introduced spurious endogeneity.
 * **Solution:** Halve your forecast error and minimize endogeneity and mistiming through high-frequency techniques.
 
